@@ -20,13 +20,15 @@ datas = [
                 "Address": "one1kf42rl6yg2avkjsu34ch2jn8yjs64ycn4n9wdj",
                 "Name": "P-OPS Validator",
                 "Fees": "5",
-                "Delegation": "250000000"
+                "Delegation": "250000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             },
             {
                 "Address": "one19ugus2az5a9m8tcgeq2pazcdht5kn3pe86434u",
                 "Name": "Stakehere",
                 "Fees": "10",
-                "Delegation": "15000000"
+                "Delegation": "15000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             }
         ]
     },
@@ -45,13 +47,15 @@ datas = [
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "Fees": "5",
-                "Delegation": "250000000"
+                "Delegation": "250000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
                 "Fees": "10",
-                "Delegation": "15000000"
+                "Delegation": "15000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             }
         ]
     },
@@ -70,13 +74,15 @@ datas = [
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "Fees": "5",
-                "Delegation": "250000000"
+                "Delegation": "250000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
                 "Fees": "10",
-                "Delegation": "15000000"
+                "Delegation": "15000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             }
         ]
     },
@@ -95,13 +101,15 @@ datas = [
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "Fees": "5",
-                "Delegation": "250000000"
+                "Delegation": "250000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
                 "Fees": "10",
-                "Delegation": "15000000"
+                "Delegation": "15000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             }
         ]
     },
@@ -120,7 +128,8 @@ datas = [
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "Fees": "5",
-                "Delegation": "250000000"
+                "Delegation": "250000000",
+                "Stake_link": "https://stake_link_to_be_filled_up"
             }
         ]
     }
