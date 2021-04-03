@@ -8,7 +8,7 @@ datas = [
     {
         "ID": "1",
         "Name": "Harmony",
-        "price": "20",
+        "price": "0.20",
         "APY": "10-12",
         "Fees" : "5",
         "Info": "Harmony insert decription",
@@ -21,21 +21,21 @@ datas = [
                 "Name": "P-OPS Validator",
                 "Fees": "5",
                 "Delegation": "250000000",
-                "Stake_link": "https://stake_link_to_be_filled_up"
+                "Stake_link": "https://staking.harmony.one/validators/mainnet/one1kf42rl6yg2avkjsu34ch2jn8yjs64ycn4n9wdj"
             },
             {
                 "Address": "one19ugus2az5a9m8tcgeq2pazcdht5kn3pe86434u",
                 "Name": "Stakehere",
                 "Fees": "10",
                 "Delegation": "15000000",
-                "Stake_link": "https://stake_link_to_be_filled_up"
+                "Stake_link": "https://staking.harmony.one/validators/mainnet/one19ugus2az5a9m8tcgeq2pazcdht5kn3pe86434u"
             }
         ]
     },
     {
         "ID": "2",
         "Name": "Solana",
-        "price": "0.2",
+        "price": "20",
         "Fees" : "5",
         "APY": "15",
         "Info": "Solana insert decription",
@@ -63,7 +63,7 @@ datas = [
         "ID": "3",
         "Name": "Avalanche",
         "price": "0.2",
-        "APY": "15",
+        "APY": "32",
         "Fees" : "5",
         "Info": "Avalanche insert description",
         "Total_delegagation" : "1111",
@@ -89,7 +89,7 @@ datas = [
     {
         "ID": "4",
         "Name": "The Graph",
-        "price": "0.2",
+        "price": "2",
         "APY": "15",
         "Fees" : "5",
         "Info": "The Graph insert description",
