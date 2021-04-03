@@ -12,18 +12,19 @@ datas = [
       "price": "20",
       "APY": "10-12",
       "Info": "Harmony insert decription",
+      "total_delegagation" : "1111",
       "Validators": [
             {
                 "Address": "one1kf42rl6yg2avkjsu34ch2jn8yjs64ycn4n9wdj",
                 "Name": "P-OPS Validator",
                 "fees": "5",
-                "Total_delegated": "250000000"
+                "delegation": "250000000"
             },
             {
                 "Address": "one19ugus2az5a9m8tcgeq2pazcdht5kn3pe86434u",
                 "Name": "Stakehere",
                 "fees": "10",
-                "Total_delegated": "15000000"
+                "delegation": "15000000"
             }
       ]
     },
@@ -33,18 +34,19 @@ datas = [
         "price": "0.2",
         "APY": "15",
         "Info": "Solana insert decription",
+        "total_delegagation" : "1111",
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "fees": "5",
-                "Total_delegated": "250000000"
+                "delegation": "250000000"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
                 "fees": "10",
-                "Total_delegated": "15000000"
+                "delegation": "15000000"
             }
         ]
     },
@@ -54,18 +56,19 @@ datas = [
         "price": "0.2",
         "APY": "15",
         "Info": "Avalanche insert description",
+        "total_delegagation" : "1111",
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "fees": "5",
-                "Total_delegated": "250000000"
+                "delegation": "250000000"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
                 "fees": "10",
-                "Total_delegated": "15000000"
+                "delegation": "15000000"
             }
         ]
     },
@@ -75,18 +78,19 @@ datas = [
         "price": "0.2",
         "APY": "15",
         "Info": "The Graph insert description",
+        "total_delegagation" : "1111",
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "fees": "5",
-                "Total_delegated": "250000000"
+                "delegation": "250000000"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
                 "fees": "10",
-                "Total_delegated": "15000000"
+                "delegation": "15000000"
             }
         ]
     },
@@ -96,18 +100,13 @@ datas = [
         "price": "4",
         "APY": "15",
         "Info": "Stafi insert description",
+        "total_delegagation" : "1111",
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
                 "fees": "5",
-                "Total_delegated": "250000000"
-            },
-            {
-                "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
-                "Name": "Mindstyle",
-                "fees": "10",
-                "Total_delegated": "15000000"
+                "delegation": "250000000"
             }
         ]
     }
