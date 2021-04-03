@@ -1,25 +1,27 @@
 [
     {
-      "ID": "1",
-      "Name": "Harmony",
-      "price": "20",
-      "APY": "10-12",
-      "Info": "Harmony insert decription",
-      "total_delegagation" : "1111",
-      "Validators": [
+        "ID": "1",
+        "Name": "Harmony",
+        "price": "20",
+        "APY": "10-12",
+        "Info": "Harmony insert decription",
+        "Total_delegagation" : "1111",
+        "Project_website" : "https://www.harmony.one",
+        "Project_documentations" : ["https://github.com/harmony", "https://medium.com/harmony"],
+        "Validators": [
             {
                 "Address": "one1kf42rl6yg2avkjsu34ch2jn8yjs64ycn4n9wdj",
                 "Name": "P-OPS Validator",
-                "fees": "5",
-                "delegation": "250000000"
+                "Fees": "5",
+                "Delegation": "250000000"
             },
             {
                 "Address": "one19ugus2az5a9m8tcgeq2pazcdht5kn3pe86434u",
                 "Name": "Stakehere",
-                "fees": "10",
-                "delegation": "15000000"
+                "Fees": "10",
+                "Delegation": "15000000"
             }
-      ]
+        ]
     },
     {
         "ID": "2",
@@ -27,19 +29,21 @@
         "price": "0.2",
         "APY": "15",
         "Info": "Solana insert decription",
-        "total_delegagation" : "1111",
+        "Total_delegagation" : "1111",
+        "Project_website" : "https://www.solana.com",
+        "Project_documentations" : ["github.com/solana", "medium.com/solana"],
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
-                "fees": "5",
-                "delegation": "250000000"
+                "Fees": "5",
+                "Delegation": "250000000"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
-                "fees": "10",
-                "delegation": "15000000"
+                "Fees": "10",
+                "Delegation": "15000000"
             }
         ]
     },
@@ -49,19 +53,21 @@
         "price": "0.2",
         "APY": "15",
         "Info": "Avalanche insert description",
-        "total_delegagation" : "1111",
+        "Total_delegagation" : "1111",
+        "Project_website" : "https://www.avalabs.org/",
+        "Project_documentations" : ["github.com/avalabs", "medium.com/avalabs"],
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
-                "fees": "5",
-                "delegation": "250000000"
+                "Fees": "5",
+                "Delegation": "250000000"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
-                "fees": "10",
-                "delegation": "15000000"
+                "Fees": "10",
+                "Delegation": "15000000"
             }
         ]
     },
@@ -71,19 +77,21 @@
         "price": "0.2",
         "APY": "15",
         "Info": "The Graph insert description",
-        "total_delegagation" : "1111",
+        "Total_delegagation" : "1111",
+        "Project_website" : "https://thegraph.com/",
+        "Project_documentations" : ["github.com/thegraph", "medium.com/thegraph"],
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
-                "fees": "5",
-                "delegation": "250000000"
+                "Fees": "5",
+                "Delegation": "250000000"
             },
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Mindstyle",
-                "fees": "10",
-                "delegation": "15000000"
+                "Fees": "10",
+                "Delegation": "15000000"
             }
         ]
     },
@@ -93,13 +101,15 @@
         "price": "4",
         "APY": "15",
         "Info": "Stafi insert description",
-        "total_delegagation" : "1111",
+        "Total_delegagation" : "1111",
+        "Project_website" : "https://www.stafi.io",
+        "Project_documentations" : ["github.com/stafi", "medium.com/stafi"],
         "Validators": [
             {
                 "Address": "D8P3w7GQ4zTYbJfEGgfdQWQ1vrL6umGYAUrMz4hBJjrN",
                 "Name": "Soph",
-                "fees": "5",
-                "delegation": "250000000"
+                "Fees": "5",
+                "Delegation": "250000000"
             }
         ]
     }
